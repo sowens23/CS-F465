@@ -20,8 +20,12 @@
   | --- | --- | --- |
   | [Week-1](#Week-1) | [HW00]() | |
 
+# Week-2
+[Top](#TOP)
+## 2025-01-21
+  - tracert bad.horse will include the lyrics to Dr. Horribles Singalong whatever. Very interesting.
+
 # Week-1
 [Top](#TOP)
-## 2025-01-16
 ## 2025-01-14
   - Nothing is secure.
